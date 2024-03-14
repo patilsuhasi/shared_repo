@@ -3,6 +3,6 @@ def call(){
   '''
 }
 def call(name){
-  sh ''' echo " the name is ${name}"
-  '''
+   echo " the name is ${name}"
+
 }
